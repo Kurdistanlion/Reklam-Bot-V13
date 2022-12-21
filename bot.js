@@ -1,5 +1,5 @@
-const { Client } = require('discord.js');
-require('@discordjs/voice');
+
+require('https://discord.com/channels/1041127338106159106/1047964293234167868');
 const client = new Client({ partials: ["CHANNEL", "MESSAGES", "GUILD_MEMBERS", "DIRECT_MESSAGES"], intents: 32767 });
 const db = require('pro.db');
 const ms = require('ms');
